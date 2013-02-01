@@ -5,3 +5,6 @@ body {
 .hero-unit {
   background: url(../img/pinching-banner.jpg);
 }
+.space-below {
+  margin-bottom: 1em;
+}
